@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793839793647",
+    "firebase_url": "https://jessemap-77c2a-default-rtdb.firebaseio.com",
+    "project_id": "jessemap-77c2a",
+    "storage_bucket": "jessemap-77c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793839793647:android:421b8cc298dbef0d03321a",
+        "android_client_info": {
+          "package_name": "com.example.jessegooglemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793839793647-3orf62aulfr6qo0aldutgr0m4a0ogbso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2hsR_LsXSY52ZM8YZbBiy8q4Udp5cwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793839793647-3orf62aulfr6qo0aldutgr0m4a0ogbso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
